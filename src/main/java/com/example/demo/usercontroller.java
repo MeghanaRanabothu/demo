@@ -19,5 +19,8 @@ public class usercontroller {
 			 System.out.println(User.getName());
 	}
 
+   void deleteuser(@RequestBody user User) {
+	   
+   }
 
 }
